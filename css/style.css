@@ -6,3 +6,7 @@
 .avatar {
     width: 250px;
 }
+
+html {
+    scroll-behavior: smooth;
+}
